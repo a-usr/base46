@@ -6,7 +6,7 @@ return {
   ["@lsp.type.enum"] = { link = "Type" },
   ["@lsp.type.enumMember"] = { link = "Constant" },
   ["@lsp.type.function"] = { link = "@function" },
-  ["@lsp.type.interface"] = { link = "Structure" },
+  ["@lsp.type.interface"] = { fg = theme.base07 },
   ["@lsp.type.macro"] = { link = "@macro" },
   ["@lsp.type.method"] = { link = "@function.method" },
   ["@lsp.type.namespace"] = { link = "@module" },
