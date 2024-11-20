@@ -36,7 +36,7 @@ return {
   ["@keyword.import"] = { link = "Include" },
   ["@keyword.conditional"] = { fg = theme.base0E },
   ["@keyword.conditional.ternary"] = { fg = theme.base0E },
-  ["@keyword.repeat"] = { fg = theme.base0A },
+  ["@keyword.repeat"] = { fg = theme.base0E },
   ["@keyword.storage"] = { fg = theme.base0A },
   ["@keyword.directive.define"] = { fg = theme.base0E },
   ["@keyword.directive"] = { fg = theme.base0A },
